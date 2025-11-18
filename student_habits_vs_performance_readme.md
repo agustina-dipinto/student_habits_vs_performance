@@ -1,4 +1,4 @@
-#🎓Student Academic Performance Prediction: Regression Model
+# 🎓Student Academic Performance Prediction: Regression Model🎓
 
 ## Project Overview
 
