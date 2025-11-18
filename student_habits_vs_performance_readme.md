@@ -78,8 +78,8 @@ Based on the achieved $R^2$ of 0.90, the model successfully confirmed the altern
 
 ## Future Work
 
-Exploration of alternative models such as Support Vector Regression.
+- Exploration of alternative models such as Support Vector Regression.
 
-Analysis of feature importance to formally rank the contribution of each variable (e.g., how much stronger is study_hours_per_day compared to exercise_frequency).
+- Analysis of feature importance to formally rank the contribution of each variable (e.g., how much stronger is study_hours_per_day compared to exercise_frequency).
 
-Creation of an ensemble model combining the stability of Linear Regression with the finer predictive power of the optimized Gradient Boosting Regressor.
+- Creation of an ensemble model combining the stability of Linear Regression with the finer predictive power of the optimized Gradient Boosting Regressor.
